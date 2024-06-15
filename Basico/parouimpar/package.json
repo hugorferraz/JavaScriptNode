@@ -1,0 +1,20 @@
+{
+  "name": "parouimpar",
+  "version": "1.0.0",
+  "description": "Verifica se um numero é par ou impar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lógica",
+    "par",
+    "ímpar",
+    "programamodotexto"
+  ],
+  "author": "Hugo Ferraz",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
